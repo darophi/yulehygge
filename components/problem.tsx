@@ -30,7 +30,7 @@ export function Problem(props: ProblemProps) {
       </div>
       {props.description &&
         <div>
-          <p className="font-bold">Eksempel</p>
+          <p className="font-bold">Beskrivelse</p>
           {props.description.map(x => (
             <div key={x}>{x}</div>
           ))}
@@ -66,7 +66,7 @@ export function Problem(props: ProblemProps) {
         <input className="border rounded p-1" value={input} onChange={(e) => setInput(e.target.value)} />
         <button type="submit" className="bg-green-600 px-2 py-1 rounded text-white">Svar</button>
 
-        {!isCorrect && <p className="text-red-400">
+        {!isCorrect && <p className="text-red-400 text-sm">
           Forkert svar!</p>}
       </form>
 

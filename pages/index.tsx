@@ -25,7 +25,7 @@ const data = [
     description: [
       "Du har nu været i stand til at hjælpe ham ind i slæden og afsted i luften med hans rensdyr. Nu finder han ud af, at hans GPS ikke virker. Det er nemlig sådan at den korteste rute mellem alle huse han skal forbi, er krypteret og han skal angive et dekrypteret svar, for at kunne få adgang til at se den rigtige rute som han skal bruge. Det vi ved er følgende:",
 
-      "Givet et stykke tekst, er alle bogstaver flyttet 7 tegn, dvs. bogstav A → H, B → I, C → J, etc. Dette kaldes også for “Caesar Cipher” og er en af de mest simple måder at krypterer og dekryptere beskeder på og er kendt i omtrent 2000 år.",
+      "Givet et stykke tekst, er alle bogstaver flyttet 7 tegn, dvs. bogstav A → H, B → I, C → J, etc. Dette kaldes også for “Caesar Cipher” og er en af de mest simple måder at krypterer og dekryptere beskeder på og har nu værent kendt i omtrent 2000 år.",
     ],
     example: [
       "Krypteret:     Zulthuk",
