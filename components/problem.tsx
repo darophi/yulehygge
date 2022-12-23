@@ -40,7 +40,7 @@ export function Problem(props: ProblemProps) {
 
       {props.problem &&
         <>
-          <div className="font-bold">Input:</div>
+          <div className="font-bold">Opgaven:</div>
           <div>{props.problem}</div>
         </>
       }

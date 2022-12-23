@@ -13,7 +13,8 @@ const data = [
     description: "Julemanden har glemt hvad koden er til hans slæde. Uden denne er han ikke i stand til at levere julegaver til alle børn i verden. Han husker blot den rækkefølge af tal han skulle gange sammen for at få koden, men hans lommeregner er gået i stykker, så han kan desværre ikke lave regnestykket. Kan i regne ud hvad koden er?",
     problemHeader: "Problem 1",
     solution: "3417",
-    point: 5
+    point: 5,
+    problem: "13 x 7 x 42+ 6 + 9 - 420"
   },
   {
     description: `
